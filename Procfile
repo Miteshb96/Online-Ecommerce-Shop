@@ -1,2 +1,2 @@
-web: npm start
-local: yarn start
+web: node index.js
+local: npm start
